@@ -23,5 +23,16 @@
 
 ---
 
-## 📁 Project Structure
+## 👨‍💻 Author
+
+Developed by **G.G** – Academic Year 2024/2025 - ISIS J.M KEYNES GAZZADA SCHIANNO
+Project created for the final high school showcase (*UNICA - CAPOLAVORO*).
+
+## 📸 Preview
+
+![Minion Screenshot](images/minion.jpg)
+
+
+##DISCLAMER
+“Minions” and all related characters and imagery are trademarks and copyrights of Universal City Studios LLC and Illumination Entertainment. This project is a non-commercial, educational fan project and is not affiliated with, endorsed by, or sponsored by Universal or Illumination.
 
