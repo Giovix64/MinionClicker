@@ -32,6 +32,9 @@ Project created for the final high school showcase (*UNICA - CAPOLAVORO*).
 
 ![Minion Screenshot](images/minion.jpg)
 
+##DISCLAMER
+“Minions” and all related characters and imagery are trademarks and copyrights of Universal City Studios LLC and Illumination Entertainment. This project is a non-commercial, educational fan project and is not affiliated with, endorsed by, or sponsored by Universal or Illumination.
+
 
 ##DISCLAMER
 “Minions” and all related characters and imagery are trademarks and copyrights of Universal City Studios LLC and Illumination Entertainment. This project is a non-commercial, educational fan project and is not affiliated with, endorsed by, or sponsored by Universal or Illumination.
